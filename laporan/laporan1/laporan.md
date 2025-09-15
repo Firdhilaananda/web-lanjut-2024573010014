@@ -19,7 +19,6 @@ Laporan ini berfungsi untuk memahami dasar-dasar framework laravel. Laporan ini 
       MVC (Model-View_Controller) merupakan desain arsitektur yang membantu menjaga kode tetap terorganisir dan memudahkan pengembangan, pemeliharaan, dan skalabilotas aplikasi. MVC memisahkan aplikasi menjadi tiga komponen utama Model, View, dan Controller.
       
       Laravel cocok untuk jenis aplikasi berbasis web yang butuh struktur jelas, keamanan, dan fitur lengkap. Contoh aplikasi yang cocok dibuat dengan laravel yaitu seperti E-commerce, aplikasi edukasi, dan aplikasi lainnya yang membutuhkan struktur yang rapi, yang banyak fitur CRUD.
-      ---
 
 ---
 
@@ -86,7 +85,7 @@ Laporan ini berfungsi untuk memahami dasar-dasar framework laravel. Laporan ini 
           File phpunit.xml merupakan dile konfigurasi untuk PHPUnit, tools yang digunakan laravel untuk testing.
       8. README.md
           File ini merupakan markdown yang memberikan pengenalan dasar tentang laravel.
-          ---
+---
 
 ## 4. Diagram MVC dan Cara kerjanya
 
