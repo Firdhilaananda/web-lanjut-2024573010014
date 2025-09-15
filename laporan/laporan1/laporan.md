@@ -10,8 +10,10 @@
 
 Laporan ini berfungsi untuk memahami dasar-dasar framework laravel. Laporan ini disusun agar dapat memahami konsep dasar laravel, tujuan penggunaan laravel, kemudian juga mengenal komponen utama laravel, dan mengetahui struktur folder dan file laravel agar bisa memahami fungsi setiap direktori dan file dalam sebuah project.
 
-## 1. Pendahuluan
 ---
+
+## 1. Pendahuluan
+
       Laravel merupakan salah satu framework PHP yang populer digunakaan saat ini dan bersifat open-source. Framework web adalah  Laravel dikembangkan oleh Taylor Otwell pada tahun 2011. 
 
       Laravel dirancang untuk membuat pengembangan web menjadi lebih cepat dan mudah. Framework ini menggunakan pola arsitektur MVC (Model-View-Controller).
@@ -47,7 +49,7 @@ Laporan ini berfungsi untuk memahami dasar-dasar framework laravel. Laporan ini 
 ---
 
 ## 3. Berikan penjelasan untuk setiap folder dan files yang ada didalam struktur sebuah project laravel.
----
+
     - Folder
       1. App
          Folder ini berisi kode inti aplikasi yang kita buat. 
