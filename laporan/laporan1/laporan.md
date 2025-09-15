@@ -14,13 +14,9 @@ Laporan ini berfungsi untuk memahami dasar-dasar framework laravel. Laporan ini 
 
 ## 1. Pendahuluan
 
-      Laravel merupakan salah satu framework PHP yang populer digunakaan saat ini dan bersifat open-source. Framework web adalah  Laravel dikembangkan oleh Taylor Otwell pada tahun 2011. 
+   Laravel merupakan salah satu framework PHP yang populer digunakaan saat ini dan bersifat open-source. Framework web adalah  Laravel dikembangkan oleh Taylor Otwell pada tahun 2011. Laravel dirancang untuk membuat pengembangan web menjadi lebih cepat dan mudah. Framework ini menggunakan pola arsitektur MVC (Model-View-Controller).
 
-      Laravel dirancang untuk membuat pengembangan web menjadi lebih cepat dan mudah. Framework ini menggunakan pola arsitektur MVC (Model-View-Controller).
-
-      MVC (Model-View_Controller) merupakan desain arsitektur yang membantu menjaga kode tetap terorganisir dan memudahkan pengembangan, pemeliharaan, dan skalabilotas aplikasi. MVC memisahkan aplikasi menjadi tiga komponen utama Model, View, dan Controller.
-      
-      Laravel cocok untuk jenis aplikasi berbasis web yang butuh struktur jelas, keamanan, dan fitur lengkap. Contoh aplikasi yang cocok dibuat dengan laravel yaitu seperti E-commerce, aplikasi edukasi, dan aplikasi lainnya yang membutuhkan struktur yang rapi, yang banyak fitur CRUD.
+   MVC (Model-View_Controller) merupakan desain arsitektur yang membantu menjaga kode tetap terorganisir dan memudahkan pengembangan, pemeliharaan, dan skalabilotas aplikasi. MVC memisahkan aplikasi menjadi tiga komponen utama Model, View, dan Controller. Laravel cocok untuk jenis aplikasi berbasis web yang butuh struktur jelas, keamanan, dan fitur lengkap. Contoh aplikasi yang cocok dibuat dengan laravel yaitu seperti E-commerce, aplikasi edukasi, dan aplikasi lainnya yang membutuhkan struktur yang rapi, yang banyak fitur CRUD.
 
 ---
 
@@ -50,7 +46,7 @@ Laporan ini berfungsi untuk memahami dasar-dasar framework laravel. Laporan ini 
 
 ## 3. Berikan penjelasan untuk setiap folder dan files yang ada didalam struktur sebuah project laravel.
 
-    - Folder
+   - Folder
       1. App
          Folder ini berisi kode inti aplikasi yang kita buat. 
       2. Bootstrap
@@ -70,7 +66,7 @@ Laporan ini berfungsi untuk memahami dasar-dasar framework laravel. Laporan ini 
       9. Vendor
          Folder vendor berisi dependensi Composer.
       
-    - File
+   - File
       1. .editorconvig
          File ini digunakan untuk memberi IDE/text editor instruksi tentang standar coding laravel.
       2. .env dan env.example
