@@ -11,6 +11,7 @@
 Laporan ini berfungsi untuk memahami dasar-dasar framework laravel. Laporan ini disusun agar dapat memahami konsep dasar laravel, tujuan penggunaan laravel, kemudian juga mengenal komponen utama laravel, dan mengetahui struktur folder dan file laravel agar bisa memahami fungsi setiap direktori dan file dalam sebuah project.
 
 ## 1. Pendahuluan
+---
       Laravel merupakan salah satu framework PHP yang populer digunakaan saat ini dan bersifat open-source. Framework web adalah  Laravel dikembangkan oleh Taylor Otwell pada tahun 2011. 
 
       Laravel dirancang untuk membuat pengembangan web menjadi lebih cepat dan mudah. Framework ini menggunakan pola arsitektur MVC (Model-View-Controller).
@@ -18,6 +19,7 @@ Laporan ini berfungsi untuk memahami dasar-dasar framework laravel. Laporan ini 
       MVC (Model-View_Controller) merupakan desain arsitektur yang membantu menjaga kode tetap terorganisir dan memudahkan pengembangan, pemeliharaan, dan skalabilotas aplikasi. MVC memisahkan aplikasi menjadi tiga komponen utama Model, View, dan Controller.
       
       Laravel cocok untuk jenis aplikasi berbasis web yang butuh struktur jelas, keamanan, dan fitur lengkap. Contoh aplikasi yang cocok dibuat dengan laravel yaitu seperti E-commerce, aplikasi edukasi, dan aplikasi lainnya yang membutuhkan struktur yang rapi, yang banyak fitur CRUD.
+      ---
 
 ---
 
@@ -46,6 +48,7 @@ Laporan ini berfungsi untuk memahami dasar-dasar framework laravel. Laporan ini 
 ---
 
 ## 3. Berikan penjelasan untuk setiap folder dan files yang ada didalam struktur sebuah project laravel.
+---
     - Folder
       1. App
          Folder ini berisi kode inti aplikasi yang kita buat. 
@@ -83,7 +86,7 @@ Laporan ini berfungsi untuk memahami dasar-dasar framework laravel. Laporan ini 
           File phpunit.xml merupakan dile konfigurasi untuk PHPUnit, tools yang digunakan laravel untuk testing.
       8. README.md
           File ini merupakan markdown yang memberikan pengenalan dasar tentang laravel.
-
+          ---
 
 ## 4. Diagram MVC dan Cara kerjanya
 
