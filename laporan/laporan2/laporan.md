@@ -103,6 +103,7 @@ Screenshot Hasil:
 Route, menyesuaikan alamat URL.
 View, Menangani lapisan presentasi, yaitu HTML yang ditampilkan kepada pengguna. Laravel menggunakan blade sebagai template engine untuk view. 
 
+
 ---
 
 ## 4. Kesimpulan
